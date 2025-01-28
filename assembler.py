@@ -5,6 +5,7 @@ import optparse
 
 symbols = {}
 
+
 instructions = []
 
 relocations = []
